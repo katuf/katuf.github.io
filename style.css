@@ -124,7 +124,7 @@ a:focus {
   display: -webkit-box;
   display: flex;
   box-sizing: border-box;
-  min-height: 100vh;
+  min-height: 96vh;
 }
 
 .column-section {
