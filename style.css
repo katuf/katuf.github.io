@@ -80,12 +80,12 @@ a:focus {
 }
 
 .logo {
-  background: url("../../assets/images/logo.svg") no-repeat;
+  background: url("./logo.png") no-repeat;
   background-position: top left, top left;
   background-repeat: no-repeat;
   background-size: auto, auto 100%;
-  width: 42px;
-  height: 50px;
+  width: 96px;
+  height: 96px;
   padding: 0;
   margin: 0;
 }
