@@ -21,7 +21,7 @@ html {
 body {
   font: 15px/1.5 "Roboto Mono", Helvetica, sans-serif;
   color: #ebebea;
-  background: #222222;
+  background: #404041;
   margin: 0;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -84,16 +84,16 @@ a:focus {
   background-position: top left, top left;
   background-repeat: no-repeat;
   background-size: auto, auto 100%;
-  width: 96px;
-  height: 96px;
+  width: 266px;
+  height: 191px;
   padding: 0;
   margin: 0;
 }
 
 @media (max-width: 600px) {
   .logo {
-    width: 42px;
-    height: 50px;
+    width: 266px;
+    height: 191px;
   }
 
   .section {
@@ -172,7 +172,7 @@ a:focus {
   pointer-events: none;
 }
 .scrunch:after {
-  background: #222222;
+  background: #404041;
   content: "";
   position: absolute;
   top: 0;
