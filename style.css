@@ -92,8 +92,8 @@ a:focus {
 
 @media (max-width: 600px) {
   .logo {
-    width: 305px;
-    height: 220px;
+    width: 42px;
+    height: 30px;
   }
 
   .section {
@@ -124,7 +124,7 @@ a:focus {
   display: -webkit-box;
   display: flex;
   box-sizing: border-box;
-  min-height: 100vh;
+  /*min-height: 100vh;*/
 }
 
 .column-section {
@@ -218,12 +218,8 @@ a:focus {
   }
 
   .footer {
-    position: relative;
-    right: auto;
-    bottom: auto;
-    padding: 0 7.5vw 7.5vw;
-    -webkit-box-align: start;
-    align-items: flex-start;
+    right: 48px;
+    bottom: 48px;
   }
 
   .footer-links {
